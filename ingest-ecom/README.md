@@ -1,1 +1,0 @@
-# Script de ingestao Postgresql
